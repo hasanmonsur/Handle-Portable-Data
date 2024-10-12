@@ -1,0 +1,6 @@
+@PortableDataProcessor_HostAddress = http://localhost:5062
+
+GET {{PortableDataProcessor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
